@@ -1,2 +1,2 @@
-* Welcome <br />
+* Welcome: 
 Please read some code to start!!
